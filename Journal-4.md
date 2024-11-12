@@ -1,5 +1,4 @@
 # Sprint 4: week 1
-_
 
 ## `11-11-2024`
 ### Analyseren + Ontwerpen
